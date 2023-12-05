@@ -1,0 +1,24 @@
+@media (max-width: 1200px) {
+}
+@media (max-width: 1024px) {
+  .left-content {
+    text-align: center;
+  }
+  .men {
+    margin-top: 500px;
+    margin-left: -600px;
+  }
+}
+@media (max-width: 768px) {
+  .buttons {
+    display: none;
+  }
+  .links {
+    display: none;
+  }
+  .burger-menu {
+    display: block;
+  }
+}
+@media (max-width: 480ppx) {
+}
